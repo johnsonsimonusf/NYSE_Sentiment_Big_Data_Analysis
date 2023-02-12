@@ -1,7 +1,5 @@
 # NYSE_Sentiment_Big_Data_Analysis
-In Depth analysis of the project is made available here: https://www.youtube.com/watch?v=a4R9nZ5maLs
-
-Big Data Group Project
+In Depth analysis video of the project is made available on youtube here: [Big Data Group Project](https://www.youtube.com/watch?v=a4R9nZ5maLs)
 
 •	A PySpark project on databricks to predict factors influencing New York Stock Exchange sentiment value based on financial markets data.
 
